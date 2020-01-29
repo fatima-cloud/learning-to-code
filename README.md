@@ -5,6 +5,6 @@ Github, Git, Gitlab.
 
 coding........
 
-Stil Adding more changes to this code
+Still Adding more changes to this code
 
 
