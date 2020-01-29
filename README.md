@@ -5,10 +5,6 @@ Github, Git, Gitlab.
 
 coding........
 
-changes
+Stil Adding more changes to this code
 
-Adding more changes to this code
 
-and more!!
-
-edits and edits on wednesday
